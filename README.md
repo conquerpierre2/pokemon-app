@@ -1,3 +1,10 @@
+# Description
+
+Ce projet a pour but de modifier , afficher, supprimer, ajouter différents pokemon via Angular. Application pour apprendre les bases d'Angular
+
+
+
+
 # NgPokemonApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
